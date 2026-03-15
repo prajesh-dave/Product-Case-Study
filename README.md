@@ -1,4 +1,4 @@
-#AI-Driven Decision Intelligence Dashboard
+# AI-Driven Decision Intelligence Dashboard
 
 The rapid evolution of artificial intelligence (AI), especially Generative AI combined with advanced data analytics, is
 transforming the nature of business decision-making. This project investigates how AI-powered decision systems can
