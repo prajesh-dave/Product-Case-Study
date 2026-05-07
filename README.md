@@ -1,0 +1,1 @@
+Analyzed why creators use plain-text credits despite @mentions. Identified adoption gaps due to friction, low incentives, and weak discoverability. Proposed “Credits 2.0” with structured tagging, smart suggestions, and improved search. Includes user insights, KPIs, and RICE prioritization.
